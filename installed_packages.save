@@ -1,0 +1,28 @@
+acl 2.2.52-2 adwaita-icon-theme 3.16.2.1-1 alsa-lib 1.0.29-1 alsa-utils 1.0.29-1 archlinux-keyring 20150523-1 at-spi2-atk 2.16.0-1 at-spi2-core 2.16.0-1 atk 2.16.0-1 attr 2.4.47-1 autoconf 2.69-2 
+automake 1.15-1 avahi 0.6.31-15 bash 4.3.039-1 binutils 2.25-5 bison 3.0.4-1 boost-libs 1.58.0-2 bzip2 1.0.6-5 ca-certificates 20150402-1 ca-certificates-cacert 20140824-2 ca-certificates-mozilla 
+3.18.1-1 ca-certificates-utils 20150402-1 cairo 1.14.2-1 colord 1.2.9-2 compositeproto 0.4.2-3 coreutils 8.23-2 cracklib 2.9.4-1 cryptsetup 1.6.6-1 curl 7.42.1-1 damageproto 1.2.1-3 db 5.3.28-2 dbus 
+1.8.18-1 dbus-glib 0.102-2 dconf 0.24.0-1 desktop-file-utils 0.22-1 device-mapper 2.02.116-1 dhcpcd 6.9.0-1 dialog 1:1.2_20150528-1 diffutils 3.3-2 dnscrypt-proxy 1.4.3-1 e2fsprogs 1.42.12-2 elfutils 
+0.161-3 elinks 0.13-15 emacs 24.5-1 expac 4-3 expat 2.1.0-4 fakeroot 1.20.2-1 file 5.22-1 filesystem 2015.02-1 findutils 4.4.2-6 fixesproto 5.0-3 flac 1.3.1-1 flex 2.5.39-1 fontconfig 2.11.1-1 
+fontsproto 2.1.3-1 freetype2 2.5.5-1 fribidi 0.19.6-2 gawk 4.1.3-1 gc 7.4.2-2 gcc 5.1.0-4 gcc-libs 5.1.0-4 gconf 3.2.6-3 gd 2.1.1-2 gdbm 1.11-1 gdk-pixbuf2 2.31.4-1 geoip 1.6.2-1 geoip-database 
+20150407-1 gettext 0.19.4-1 giflib 5.1.1-1 git 2.4.2-1 glib-networking 2.44.0-2 glib2 2.44.1-1 glibc 2.21-4 gmp 6.0.0-2 gnu-netcat 0.7.1-5 gnupg 2.1.4-1 gnutls 3.4.1-1 gpgme 1.5.4-1 gpm 1.20.7-4 
+graphite 1:1.2.4-1 grep 2.21-2 groff 1.22.3-3 grsec-common 3-1 grub 1:2.02.beta2-5 gsettings-desktop-schemas 3.16.1-1 gtk-update-icon-cache 3.16.3-2 gtk3 3.16.3-2 guile 2.0.11-2 gzip 1.6-1 harfbuzz 
+0.9.40-2 hicolor-icon-theme 0.13-1 hwids 20150129-1 iana-etc 2.30-5 icu 55.1-1 imagemagick 6.9.1.2-1 inetutils 1.9.3-1 inputproto 2.3.1-1 iproute2 4.0.0-2 iptables 1.4.21-3 iputils 20140519.fad11dc-1 
+jansson 2.7-1 jasper 1.900.1-13 jfsutils 1.1.15-4 js17 17.0.0-1 js185 1.0.0-2 jshon 20131105-1 json-glib 1.0.2-1 kbd 2.0.2-1 kbproto 1.0.7-1 keyutils 1.5.9-1 kmod 20-1 krb5 1.13.1-1 lcms2 2.7-1 less 
+471-1 libaio 0.3.110-1 libarchive 3.1.2-8 libassuan 2.2.0-1 libatomic_ops 7.4.2-1 libcap 2.24-2 libcl 1.1-4 libcroco 0.6.8-2 libcups 2.0.3-1 libdaemon 0.14-3 libdatrie 0.2.8-1 libdbus 1.8.18-1 libdrm 
+2.4.61-1 libedit 20150325_3.1-1 libepoxy 1.2-2 libffi 3.2.1-1 libfontenc 1.1.3-1 libgcrypt 1.6.3-2 libgpg-error 1.19-1 libgusb 0.2.4-1 libice 1.0.9-1 libidn 1.30-1 libjpeg-turbo 1.4.0-1 libksba 1.3.3-1 
+libldap 2.4.40-2 liblqr 0.4.2-1 libmng 2.0.3-1 libmpc 1.0.3-1 libnl 3.2.25-1 libogg 1.3.2-1 libomxil-bellagio 0.9.3-1 libotf 0.9.13-2 libpciaccess 0.13.4-1 libpipeline 1.4.0-1 libpng 1.6.16-1 libproxy 
+0.4.11-5 librsvg 1:2.40.9-2 libsamplerate 0.1.8-3 libsasl 2.1.26-7 libseccomp 2.2.0-1 libsm 1.2.2-2 libsndfile 1.0.25-3 libsodium 1.0.3-1 libsoup 2.50.0-1 libssh2 1.5.0-1 libsystemd 219-6 libtasn1 4.5-1 
+libthai 0.1.21-1 libtiff 4.0.3-5 libtirpc 0.3.1-1 libtool 2.4.6-2 libtorrent-rasterbar 1:1.0.5-1 libtxc_dxtn 1.0.1-6 libunistring 0.9.5-1 libusb 1.0.19-1 libutil-linux 2.26.2-1 libvorbis 1.3.5-1 libvpx 
+1.4.0-2 libx11 1.6.3-1 libxau 1.0.8-2 libxaw 1.0.13-1 libxcb 1.11-1 libxcomposite 0.4.4-2 libxcursor 1.1.14-2 libxdamage 1.1.4-2 libxdmcp 1.1.2-1 libxext 1.3.3-1 libxfixes 5.0.1-1 libxfont 1.5.1-1 
+libxft 2.3.2-1 libxi 1.7.4-1 libxinerama 1.1.3-2 libxkbcommon 0.5.0-1 libxml2 2.9.2-2 libxmu 1.1.2-1 libxpm 3.5.11-1 libxrandr 1.5.0-1 libxrender 0.9.9-1 libxshmfence 1.2-1 libxt 1.1.5-1 libxtst 1.2.2-1 
+libxv 1.0.10-1 libxxf86vm 1.1.4-1 licenses 20140629-1 linux 4.0.5-1 linux-api-headers 4.0-1 linux-firmware 20150527.3161bfa-1 linux-grsec 4.0.5.201506082251-1 llvm-libs 3.6.1-1 logrotate 3.8.9-1 lua51 
+5.1.5-4 lua52 5.2.4-1 lvm2 2.02.116-1 lynx 2.8.8-2 lz4 130-1 lzo 2.09-1 m17n-db 1.7.0-1 m17n-lib 1.7.0-1 m4 1.4.17-1 macchanger 1.7.0-1 make 4.1-1 man-db 2.7.1-1 man-pages 4.00-1 mdadm 3.3.2-2 mesa 
+10.5.7-1 mesa-libgl 10.5.7-1 mkinitcpio 18-2 mkinitcpio-busybox 1.21.1-2 mpfr 3.1.2.p11-1 nano 2.4.1-1 nasm 2.11.08-1 ncurses 5.9-7 netctl 1.10-2 nettle 3.1.1-1 nmap 6.47-3 npth 1.2-1 nspr 4.10.8-1 
+openresolv 3.7.0-1 openssl 1.0.2.a-1 p11-kit 0.23.1-2 packer 20140817-1 pacman 4.2.1-1 pacman-mirrorlist 20150531-1 pam 1.2.0-1 pambase 20130928-1 pango 1.36.8-1 patch 2.7.5-1 paxd 27-1 pciutils 3.3.1-1 
+pcmciautils 018-7 pcre 8.37-2 perl 5.20.2-1 perl-error 0.17024-1 pinentry 0.9.1-1 pixman 0.32.6-1 pkg-config 0.28-2 polkit 0.112-2 popt 1.16-7 procps-ng 3.3.10-2 psmisc 22.21-2 pth 2.0.7-5 python 
+3.4.3-2 python-pip 7.0.3-1 python-setuptools 1:17.1.1-1 python2 2.7.10-1 qbittorrent 3.2.0-1 qjson 0.8.1-3 qt4 4.8.7-1 randrproto 1.5.0-1 readline 6.3.008-1 recordproto 1.14.2-2 reiserfsprogs 3.6.24-1 
+renderproto 0.11.1-3 rest 0.7.93-1 s-nail 14.8.0-1 sed 4.2.2-3 shadow 4.2.1-3 shared-mime-info 1.4-1 sqlite 3.8.10.2-1 sshguard 1.6.0-1 sudo 1.8.13-1 sysfsutils 2.1.0-9 systemd 219-6 systemd-sysvcompat 
+219-6 tar 1.28-1 terminus-font 4.39-1 texinfo 5.2-3 thin-provisioning-tools 0.4.1-1 tre 0.8.0-3 tzdata 2015d-1 usbutils 008-1 util-linux 2.26.2-1 vi 1:070224-1 videoproto 2.3.2-1 wayland 1.8.0-1 weechat 
+1.2-1 wget 1.16.3-1 which 2.21-1 wireless_tools 30.pre9-1 wpa_actiond 1.4-2 wpa_supplicant 1:2.3-1 xcb-proto 1.11-1 xdg-utils 1.1.0.git20150323-1 xextproto 7.3.0-1 xf86vidmodeproto 2.3.1-3 xfsprogs 
+3.2.2-1 xineramaproto 1.2.1-3 xkeyboard-config 2.15-1 xorg-bdftopcf 1.0.5-1 xorg-font-util 1.3.1-1 xorg-font-utils 7.6-4 xorg-fonts-encodings 1.0.4-4 xorg-mkfontdir 1.0.7-2 xorg-mkfontscale 1.1.2-1 
+xorg-xset 1.2.3-1 xproto 7.0.27-1 xz 5.2.1-1 zlib 1.2.8-4
